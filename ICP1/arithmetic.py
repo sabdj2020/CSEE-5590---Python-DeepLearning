@@ -8,7 +8,6 @@ print("the sum is: " + str(n1 + n2))
 print("the sub is : " + str(n1 - n2))
 print("the multiplication  : " + str(n1 * n2))
 print("the division: " + str(n1 / n2))
-print("the division : " + str(n1 // n2))
-print("Modulus x % y : " + str(n1 % n2))
+print("Modulus n1 % n2 : " + str(n1 % n2))
 
 

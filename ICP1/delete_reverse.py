@@ -8,7 +8,7 @@ numOfChar = int(charToDel)
 print("the input string before delete and reverse : " + inputString)
 # delete first characters
 inputString = inputString[numOfChar:]
-print("the input string before delete and reverse: " + inputString)
+print("the input string before reverse: " + inputString)
 # reverse operation
 inputString = inputString[::-1]
-print("string after reversion : " + inputString)
+print("string after reverse : " + inputString)
