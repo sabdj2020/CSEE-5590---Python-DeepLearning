@@ -5,8 +5,8 @@ def string_alternative(string):
 
 if __name__ == '__main__':
 
-    string = input("Enter a message : ")
+    string = input("Enter >> : ")
 
-    alternative_message = string_alternative(string)
+    alt = string_alternative(string)
 
-    print("Alternative characters in message : " + alternative_message)
+    print("Alternative characters in the string is : " + alt)
