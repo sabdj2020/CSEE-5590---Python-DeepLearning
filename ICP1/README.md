@@ -6,4 +6,3 @@ In this ICP you will find
 -Basic operations: +,-,*,/.
 -Import Turtle Graphics and create the two lines. Also calculate angle between them.
 -Basic for loop.
-
