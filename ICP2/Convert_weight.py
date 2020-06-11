@@ -1,5 +1,7 @@
 # create two lists
+# list of weight in LBs
 w_LB = []
+# list of weight in KGs
 w_KG = []
 
 # enter the number of students
@@ -15,10 +17,8 @@ for st in range(num_stu):
 
 # print the students weight list in lbs
 print("this is the list of students weight in lbs")
-
 print(w_LB)
 
 # print the students weight list in kilograms
-
 print("this is the list of students weight in kilograms")
 print(w_KG)
