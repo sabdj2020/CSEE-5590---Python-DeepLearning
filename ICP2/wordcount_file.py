@@ -7,11 +7,12 @@ f.close()
 # open and read the file after the appending:
 f = open("file.txt", "r")
 wordcount = {}
-for word in f.read().split():
-    if word not in wordcount:
-        wordcount[word] = 1
+for w in f.read().split():
+    if w in wordcount:
+        wordcount[w] += 1
     else:
-        wordcount[word] += 1
+        wordcount[w] = 1
+
 
 for key, value in wordcount.items():
     print(key, value)

@@ -9,4 +9,4 @@ if __name__ == '__main__':
 
     alt = string_alternative(string)
 
-    print("Alternative characters in the string is : " + alt)
+    print("Alternative characters in the given string are : " + alt)
