@@ -6,15 +6,15 @@ f.close()
 
 # open and read the file after the appending:
 f = open("file.txt", "r")
-wordcount = {}
+count = {}
 for w in f.read().split():
-    if w in wordcount:
-        wordcount[w] += 1
+    if w in count:
+        count[w] += 1
     else:
-        wordcount[w] = 1
+        count[w] = 1
 
 
-for key, value in wordcount.items():
+for key, value in count.items():
     print(key, value)
     f = open("file.txt", "a")
     f.write("%s %i\n" % (key, value))
