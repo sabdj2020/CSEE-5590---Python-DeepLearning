@@ -13,7 +13,7 @@ Video link:https://youtu.be/ahSk8ZzvVFs <BR>
 wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP3-PYTHON
   
 ICP4:<BR>
-Video link: <BR>
+Video link:https://youtu.be/B3zqIh3LroQ <BR>
 wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP4-PYTHON
 
 
