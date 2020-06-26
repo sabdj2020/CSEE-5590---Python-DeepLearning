@@ -91,7 +91,7 @@ print("the PCA APPLIED")
 print(fdf)
 print("**********************************************")
 
-# Calculate the silhouette score for the above clustering
+# Calculate the silhouette score after
 print("silhouette score after scaler and PCA")
 km = KMeans(n_clusters=3)
 km.fit(x_pca)
