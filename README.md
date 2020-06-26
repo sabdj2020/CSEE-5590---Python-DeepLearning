@@ -17,5 +17,10 @@ Video link:https://youtu.be/B3zqIh3LroQ <BR>
 wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP4-PYTHON
 
 
+ICP5:<BR>
+Video link:https://youtu.be/avCXaiVk9dM <BR>
+wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP5-PYTHON
+
+
 
 
