@@ -99,13 +99,19 @@ print(fdf)
 print("**********************************************")
 
 # apply kmean on the PCA results
-print(" KMEAN on PCA results")
 km = KMeans(n_clusters=3)
 km.fit(x_pca)
 y_cluster_kmeans = km.predict(x_pca)
 score = metrics.silhouette_score(x_pca, y_cluster_kmeans)
 print(" KMEAN + PCA score is")
 print(score)
+
+# visualizing data after kmean+PCA
+colors = ["yellow", "blue", "green"]
+for i in range(3):
+    x_axis = x_pca[y_cluster_kmeans == i][:,0]
+    y_axis = x_pca[y_cluster_kmeans == i][:,1]
+    plt.scatter(x_axis,y_axis,color=colors[i])
 
 
 
