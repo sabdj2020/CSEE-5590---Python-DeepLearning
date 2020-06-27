@@ -20,6 +20,10 @@ wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP
 ICP5:<BR>
 Video link:https://youtu.be/avCXaiVk9dM <BR>
 wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP5-PYTHON
+  
+ICP6:<BR>
+Video link:https://youtu.be/Lkv1zF8JPCo <BR>
+wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP6-PYTHON
 
 
 
