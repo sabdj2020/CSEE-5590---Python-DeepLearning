@@ -26,5 +26,10 @@ Video link:https://youtu.be/Lkv1zF8JPCo <BR>
 wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP6-PYTHON
 
 
+ICP7:<BR>
+Video link:https://youtu.be/Lkv1zF8JPCo <BR>
+wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP6-PYTHON
+
+
 
 
