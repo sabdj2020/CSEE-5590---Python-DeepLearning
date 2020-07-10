@@ -33,6 +33,9 @@ wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP
 DL-ICP1:<BR>
 Video link: https://youtu.be/zSg5xhlJpxA <BR>
 wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-ICP1
+  
+  
+ ICP2:  https://youtu.be/ohdjc4dA-to
  
 
 
