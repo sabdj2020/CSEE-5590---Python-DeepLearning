@@ -29,6 +29,11 @@ wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP
 ICP7:<BR>
 Video link:https://youtu.be/R6uZaglLZR8 <BR>
 wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/ICP7-PYTHON
+  
+DL-ICP1:<BR>
+Video link: https://youtu.be/zSg5xhlJpxA <BR>
+wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-ICP1
+ 
 
 
 
