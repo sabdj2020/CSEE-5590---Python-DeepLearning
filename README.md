@@ -39,9 +39,12 @@ DL-ICP2:<BR>
 Video link:https://youtu.be/ohdjc4dA-to
 wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-ICP2
 
-DL-ICP2:<BR>
+DL-ICP3:<BR>
 Video link: https://youtu.be/d9p29D2Q_Q8
 wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-ICP3
 
-
+DL-ICP4:<BR>
+Video link: https://youtu.be/V1jKNwDled0
+wiki link:https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-ICP4
+  
 
