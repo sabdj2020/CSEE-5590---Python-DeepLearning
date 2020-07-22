@@ -46,5 +46,9 @@ wiki link: https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-
 DL-ICP4:<BR>
 Video link: https://youtu.be/V1jKNwDled0
 wiki link:https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-ICP4
+ 
+DL-ICP5:<BR>
+Video link:https://youtu.be/mJRzWrexaN8
+wiki link:https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-ICP5
   
 
