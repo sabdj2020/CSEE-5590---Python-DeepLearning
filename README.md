@@ -51,4 +51,8 @@ DL-ICP5:<BR>
 Video link:https://youtu.be/mJRzWrexaN8
 wiki link:https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-ICP5
   
+DL-ICP6:<BR>
+Video link:https://youtu.be/2snK1UAh0-g
+wiki link:https://github.com/sabdj2020/CSEE-5590---Python-DeepLearning/wiki/DL-ICP6
+  
 
